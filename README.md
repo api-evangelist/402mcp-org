@@ -66,7 +66,7 @@
 
 402MCP.org is the open registry for agentic commerce and HTTP 402 payment solutions. It provides a platform where autonomous AI agents can discover, compare, and integrate self‑custodial payment rails. The site lists solutions, offers documentation, an llms.txt index, and exposes an OpenAPI specification for its MCP API, enabling developers to build and interact with payment endpoints designed for AI-driven transactions.
 
-**Areas:** Payments · AI · Agents · Registry · OpenAPI
+**Areas:** Payments · Artificial Intelligence · Agents · Registry · OpenAPI
 
 ## 402MCP.org on APIs.io
 
@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [402Mcp Org Domain Security](https://apis.io/security/402mcp-org/402mcp-org-domain-security/)
-- [402Mcp Org Vulnerability Disclosure](https://apis.io/security/402mcp-org/402mcp-org-vulnerability-disclosure/)
+- [402MCP.org Domain Security](https://apis.io/security/402mcp-org/402mcp-org-domain-security/)
+- [402MCP.org Vulnerability Disclosure](https://apis.io/security/402mcp-org/402mcp-org-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -99,18 +99,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.7** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 21.9** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 26.3 |
+| Operational transparency | 23.8 |
 | Developer ergonomics | 33.3 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 6.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -126,7 +126,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -135,6 +135,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 16.7** — Payments
 
